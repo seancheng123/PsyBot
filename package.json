@@ -1,0 +1,25 @@
+{
+  "name": "psybot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.3.1",
+    "ffmpeg-static": "^5.1.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.12",
+    "opusscript": "^0.0.8",
+    "tweetnacl": "^1.0.3",
+    "youtube-search-scraper": "^1.0.1",
+    "youtube-toolkit": "^1.0.5",
+    "ytdl-core": "^4.11.5"
+  },
+  "description": ""
+}
